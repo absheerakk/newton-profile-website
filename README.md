@@ -21,6 +21,9 @@ This project was built as part of a web development workshop to improve understa
 - Basic frontend design
 - Project organization using Git and GitHub
 
+## Live Demo
+https://newtonprofilewebsite.netlify.app/
+
 ## Future Improvements
 - Improve UI/UX
 - Make the website fully responsive
