@@ -1,4 +1,4 @@
-# Isaac Newton Website
+# Isaac Newton Profile Website
 
 A user-friendly informational website showcasing the life, achievements, and contributions of Sir Isaac Newton. This project was created to practice frontend web development using HTML and CSS.
 
