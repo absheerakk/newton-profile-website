@@ -1,0 +1,77 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("./Images/newtonbg.jpg");
+    background-position: center;
+    background-size: cover;
+   font-size: larger;
+
+}
+header{
+    text-align: center;
+    margin-top: 30px;
+    color: aliceblue;
+}
+.profile-pic{
+    border-radius: 50% ;
+    height: auto;
+   max-width: 200px;
+   border-color: aliceblue;
+   border:2px solid aliceblue;
+   margin-top: -20;
+   margin-bottom: 15px;
+ 
+}nav{
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(126, 126, 128);
+}
+nav a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px 15px;
+    display: inline-block;
+}
+nav a:hover{
+    background-color: rgb(117, 32, 85);
+    border-radius: 50%;
+}
+main{
+    padding:20px;
+    margin: 20px;
+    background-color: rgba(227, 249, 253, 0.781);
+    border-radius: 5px;
+}
+#prepared{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color: rgba(172, 159, 228, 0.432);
+    padding: 0px;
+    padding-left:5px ;
+    padding-bottom: 5px;
+}
+#prepared a{
+    background-color: rgb(56, 51, 51);
+    padding: 10px 25px;
+    color: aliceblue;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+}
+#prepared a:hover{
+    
+   background-color: rgb(27, 8, 44);
+   
+}
+#back a{
+    padding: 10px 25px;
+    display: inline-block;
+    color:aliceblue;
+    text-decoration: none;
+    border-radius: 5px;
+   background-color: rgb(56, 51, 51);
+
+}
+#back a:hover{
+    background-color: rgb(27, 8, 44);
+}
